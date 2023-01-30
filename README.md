@@ -15,3 +15,8 @@ A quick look at the [iFood CRM dataset](https://github.com/ifood/ifood-data-busi
 - number of purchases made using catalogue / income
 - number of purchases made directly in store / income
 - number of visits to the company's web site / kid in the home
+
+## Visualizations
+Tableau Dashboards:
+- [Business Campaigns](https://public.tableau.com/app/profile/ivan.piven/viz/iFoodDataBusinessCampaigns/CampaingsDashboard)
+- [Business Products & Channels](https://public.tableau.com/app/profile/ivan.piven/viz/iFoodDataBusinessProductsChannels/ProductsChannelsDashboard)
